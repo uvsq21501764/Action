@@ -39,7 +39,7 @@ read rep
 if [ $rep= "YES" || $rep= "yes" || $rep= "y" ]
 then
 	echo "---------                3 - Test                      -----------"
-	cd ClientBean
+	cd auctionProject_Client/
 	java -classpath $CLASSPATH:../auctionProject_Bean/target/microProject-bean.jar:target/auctionProject_Client-0.0.1-SNAPSHOT.jar client.Client
 	cd ..
 fi

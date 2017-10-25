@@ -11,8 +11,6 @@ import entity.User;
 import entity.object;
 
 
-
-
 @Stateless
 public class AdminClient implements interAdminClient{
 	/**

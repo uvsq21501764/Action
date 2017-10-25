@@ -4,6 +4,7 @@ import javax.ejb.Remote;
 
 import entity.ParentOU;
 
+
 @Remote 
 public interface interAdminClient {
 
@@ -15,4 +16,5 @@ public interface interAdminClient {
 	
 	public void updateUr (ParentOU u);
 	
+	 
 }

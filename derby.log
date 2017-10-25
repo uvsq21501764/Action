@@ -40,3 +40,72 @@ os.arch=amd64
 os.version=4.10.0-32-generic
 derby.system.home=/home/simo/Documents/auctionProject
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 25 14:18:47 CEST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Oct 25 14:18:48 CEST 2017:
+Shutting down instance a816c00e-015f-535b-249d-00006847a6a3 on database directory /home/simo/Documents/auctionProject/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+----------------------------------------------------------------
+Wed Oct 25 14:18:48 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) shutdown
+Wed Oct 25 14:34:23 CEST 2017 : Security manager installed using the Basic server security policy.
+Wed Oct 25 14:34:24 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+Wed Oct 25 14:34:24 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Oct 25 14:34:30 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-5386-cb92-00006847a6a3 
+on database directory /home/simo/Documents/auctionProject/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/home/simo/appServ/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/simo/Documents/auctionProject
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-32-generic
+derby.system.home=/home/simo/Documents/auctionProject
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 25 14:53:32 CEST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Oct 25 14:53:32 CEST 2017:
+Shutting down instance a816c00e-015f-5386-cb92-00006847a6a3 on database directory /home/simo/Documents/auctionProject/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+----------------------------------------------------------------
+Wed Oct 25 14:53:32 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) shutdown
+Wed Oct 25 14:54:12 CEST 2017 : Security manager installed using the Basic server security policy.
+Wed Oct 25 14:54:13 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+Wed Oct 25 14:54:13 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Oct 25 14:54:19 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-5398-f1fc-00006847a6a3 
+on database directory /home/simo/Documents/auctionProject/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/home/simo/appServ/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/simo/Documents/auctionProject
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-32-generic
+derby.system.home=/home/simo/Documents/auctionProject
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 25 15:05:50 CEST 2017: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Oct 25 15:05:50 CEST 2017:
+Shutting down instance a816c00e-015f-5398-f1fc-00006847a6a3 on database directory /home/simo/Documents/auctionProject/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+----------------------------------------------------------------
+Wed Oct 25 15:05:50 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) shutdown
+Wed Oct 25 15:06:27 CEST 2017 : Security manager installed using the Basic server security policy.
+Wed Oct 25 15:06:28 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+Wed Oct 25 15:06:28 CEST 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Oct 25 15:06:35 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-53a4-28c6-00006847a6a3 
+on database directory /home/simo/Documents/auctionProject/sun-appserv-samples with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/home/simo/appServ/glassfish4/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/simo/Documents/auctionProject
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-32-generic
+derby.system.home=/home/simo/Documents/auctionProject
+Database Class Loader started - derby.database.classpath=''
